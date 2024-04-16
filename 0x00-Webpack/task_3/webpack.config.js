@@ -57,7 +57,7 @@ module.exports = {
 				{
 					loader: "image-webpack-loader",
 					options: {
-							bypassingOnDebug: true,
+							bypassingOnDebug: true, 
 							disable: true,
 					},
 				},
